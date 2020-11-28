@@ -6,7 +6,7 @@ This repository is created for training
 
 ***
 
-Bu normal bir cümle
-_Bu italic bir başlık_
-__Kalın fontlu cümle__
-**Aynı şekilde bu da kalın**
+- Bu normal bir cümle
+- _Bu italic bir başlık_
+- __Kalın fontlu cümle__
+- **Aynı şekilde bu da kalın**
