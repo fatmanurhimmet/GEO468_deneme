@@ -10,3 +10,9 @@ This repository is created for training
 - _Bu italic bir başlık_
 - __Kalın fontlu cümle__
 - **Aynı şekilde bu da kalın**
+- Kodlar da bu sayfaya yazılabilir
+
+...
+a = "Hello Gir Hub World"
+print (a)
+...
