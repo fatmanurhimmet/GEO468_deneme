@@ -12,11 +12,8 @@ This repository is created for training
 - **Aynı şekilde bu da kalın**
 - Kodlar da bu sayfaya yazılabilir
 
-'''
-a = "Hello Gir Hub World"
+''' python
+a = "Hello Git Hub World"
   print (a)
 '''
-x = 1
-if x == 1:
-    # indented four spaces
-    print("x is 1.")
+
