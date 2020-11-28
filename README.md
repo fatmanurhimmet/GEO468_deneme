@@ -12,7 +12,7 @@ This repository is created for training
 - **Aynı şekilde bu da kalın**
 - Kodlar da bu sayfaya yazılabilir
 
-...
+'''
 a = "Hello Gir Hub World"
   print (a)
-...
+'''
