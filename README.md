@@ -13,6 +13,6 @@ This repository is created for training
 - Kodlar da bu sayfaya yazılabilir
 
 ...
-a = "Hello Gir Hub World"
-print (a)
+- a = "Hello Gir Hub World"
+- print (a)
 ...
